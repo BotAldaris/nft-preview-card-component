@@ -20,6 +20,7 @@ Essa é minha solução para o desafio do frontend mentor "NFT preview card comp
 Os usuários devem ser capazes:
 
 - De ver o layout ideal da interface dependendo do tamanho da tela do dispositivo
+- Ver diferentes estilos para elementos que tem o hover ativo
 
 ### Screenshot
 
